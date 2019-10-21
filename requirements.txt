@@ -48,6 +48,6 @@ six==1.11.0
 tabulate==0.8.2
 urllib3==1.21.1
 user-agent==0.1.9
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 zope.index==4.3.0
 zope.interface==4.4.3
